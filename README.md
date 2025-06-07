@@ -2,6 +2,8 @@
 
 UniBall is a mobile application designed for university football players and coaches to organize training sessions, manage team communication, and track player engagement. This repository contains the Spring Boot backend that powers the UniBall mobile app.
 
+_Coupled with [Uniball_frontend](https://github.com/ZeeroCoo0l/Uniball_frontend)._
+
 ## 📱 Project Overview
 
 UniBall addresses common challenges in student football teams:
